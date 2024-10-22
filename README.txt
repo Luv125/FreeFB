@@ -1,0 +1,1 @@
+Hello dear user, this project was created for experimental purposes away from harming other people's projects via API Keys that have been shared. You should try it in your API Key and you should consider using the tool and use it within limits to avoid any ban or suspension of the project or other risks. Thank you.
