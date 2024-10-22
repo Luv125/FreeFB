@@ -1,0 +1,1 @@
+oh yeah there is a mobile/taplet version it has a cool GUI and esay to use but its cannot save users in log file and show passwords WTF
